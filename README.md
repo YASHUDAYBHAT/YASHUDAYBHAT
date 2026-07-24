@@ -60,15 +60,13 @@ Git • GitHub • Postman • Render • Vercel • VS Code
 
 # 🐍 Contribution Snake
 
-```text
 <p align="center">
   <img
-    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/YASHUDAYBHAT/YASHUDAYBHAT/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
     width="100%"
   />
 </p>
-```
 
 ---
 
