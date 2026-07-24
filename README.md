@@ -95,16 +95,15 @@ I'm **Yash Bhat**, an Information Technology Engineering student passionate abou
 - Publish production-ready apps
 - Grow open-source contributions
 - Build SaaS products
-- Crack GATE
-- Land a great software internship
+- ML AND AI
 
 ---
 
 # 📫 Connect
 
 - GitHub: https://github.com/YASHUDAYBHAT
-- LinkedIn: *(add your profile)*
-- Portfolio: *(add when ready)*
+- LinkedIn: 
+- Portfolio:
 
 ---
 
