@@ -62,7 +62,11 @@ Git • GitHub • Postman • Render • Vercel • VS Code
 
 ```text
 <p align="center">
- <img src="https://github.com/YASHUDAYBHAT/YASHUDAYBHAT/blob/output/github-contribution-grid-snake.svg">
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/YASHUDAYBHAT/YASHUDAYBHAT/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
 </p>
 ```
 
