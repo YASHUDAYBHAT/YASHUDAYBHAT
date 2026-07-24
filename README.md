@@ -1,165 +1,88 @@
-
-<!-- Banner -->
-<h1 align="center">
-  Hi 👋, I'm Yash Bhat
-</h1>
-
-<h3 align="center">
-Full-Stack MERN Developer • Flutter Developer • IT Engineering Student
-</h3>
+# Hi 👋, I'm Yash Bhat
 
 <p align="center">
-Building software that solves real problems.
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;Flutter+Developer;IT+Engineering+Student;Building+Real-World+Projects" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=YASHUDAYBHAT&label=Profile+Views&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/YASHUDAYBHAT?style=social"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-I'm an **Information Technology Engineering student** passionate about building products rather than just projects.
+I'm **Yash Bhat**, an Information Technology Engineering student passionate about building products that solve real problems.
 
-I enjoy creating software from the ground up—from designing the UI to building scalable backends and deploying production-ready applications.
-
-Currently focused on:
-
-- 🚀 Full Stack MERN Development
-- 📱 Flutter Mobile Apps
-- 🌐 Chrome Extensions
-- ⚡ REST APIs
-- 🧠 Data Structures & Algorithms
-
-I believe the best way to learn is by building products people can actually use.
+- 🌱 Learning **System Design, Flutter & Advanced MERN**
+- 🚀 Building **Chrome Extensions, Web Apps & Mobile Apps**
+- 🎯 Preparing for **GATE IT**
+- 💻 Love backend architecture, APIs and clean UI.
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-## Languages
+### Languages
+Java • JavaScript • TypeScript • Python • C++ • C
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+### Frontend
+React • Vite • Tailwind CSS • Flutter
 
----
+### Backend
+Node.js • Express • Socket.io
 
-## Frontend
+### Database
+MongoDB • Hive
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-
----
-
-## Backend
-
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio)
-
----
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Hive](https://img.shields.io/badge/Hive-yellow?style=for-the-badge)
-
----
-
-## Tools
-
-Git • GitHub • Render • Vercel • Postman • VS Code
-
----
-
-# 📚 Currently Learning
-
-- Advanced MERN
-- Flutter
-- System Design
-- Cloud Computing
-- DevOps Basics
-- DSA for Placements
-- GATE CS/IT
-
----
-
-# 🎯 2026 Goals
-
-- Build Production SaaS Products
-- Publish Chrome Extensions
-- Contribute to Open Source
-- Improve Flutter Skills
-- Crack GATE
-- Secure a Great Internship
+### Tools
+Git • GitHub • Postman • Render • Vercel • VS Code
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YASHUDAYBHAT&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHUDAYBHAT&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=YASHUDAYBHAT&theme=tokyonight"/>
 </p>
-
----
-
-# 🐍 Contribution Graph
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=YASHUDAYBHAT&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
 
-# 🌎 Connect With Me
+# 🐍 Contribution Snake
 
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://portfolio-link.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
-</a>
-
-</p>
+```text
+Generate this using:
+https://github.com/Platane/snk
+```
 
 ---
 
-<h3 align="center">
+# 🎯 2026 Goals
 
-"Code. Learn. Build. Repeat."
+- Publish production-ready apps
+- Grow open-source contributions
+- Build SaaS products
+- Crack GATE
+- Land a great software internship
 
-</h3>
+---
+
+# 📫 Connect
+
+- GitHub: https://github.com/YASHUDAYBHAT
+- LinkedIn: *(add your profile)*
+- Portfolio: *(add when ready)*
+
+---
+
+> **"Code. Learn. Build. Repeat."**
