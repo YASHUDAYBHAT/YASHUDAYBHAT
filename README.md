@@ -75,7 +75,7 @@ I'm **Yash Bhat**, an Information Technology Engineering student passionate abou
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YASHUDAYBHAT&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=YASHUDAYBHAT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 <p align="center">
