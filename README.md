@@ -39,24 +39,20 @@ MongoDB • Hive
 ### Tools
 Git • GitHub • Postman • Render • Vercel • VS Code
 
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YASHUDAYBHAT&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHUDAYBHAT&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YASHUDAYBHAT&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHUDAYBHAT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YASHUDAYBHAT&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=YASHUDAYBHAT&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YASHUDAYBHAT&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YASHUDAYBHAT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 </p>
-
----
 
 # 🐍 Contribution Snake
 
