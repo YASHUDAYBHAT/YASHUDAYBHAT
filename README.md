@@ -41,7 +41,7 @@ I'm **Yash Bhat**, an Information Technology Engineering student passionate abou
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
+
 
 ### 🌐 Frontend
 
@@ -50,7 +50,7 @@ I'm **Yash Bhat**, an Information Technology Engineering student passionate abou
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
----
+
 
 ### ⚙️ Backend & APIs
 
@@ -58,14 +58,14 @@ I'm **Yash Bhat**, an Information Technology Engineering student passionate abou
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
----
+
 
 ### 🗄️ Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge&logo=apache&logoColor=black)
 
----
+
 
 ### ☁️ Cloud & Tools
 
@@ -114,6 +114,6 @@ I'm **Yash Bhat**, an Information Technology Engineering student passionate abou
 - LinkedIn: 
 - Portfolio:
 
----
+
 
 > **"Code. Learn. Build. Repeat."**
